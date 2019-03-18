@@ -1,4 +1,4 @@
-# chotot-test-project
+# sample-test-project
 
 # Install Dependencies
 ```
