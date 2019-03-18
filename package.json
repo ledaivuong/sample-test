@@ -1,5 +1,5 @@
 {
-  "name": "chotot-test-project",
+  "name": "sample-test-project",
   "version": "1.0.0",
   "scripts": {
     "clearResult": "./node_modules/.bin/rimraf allure-results/*",

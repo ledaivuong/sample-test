@@ -3,4 +3,5 @@ node_modules
 allure-results
 package-lock.json
 debug.log
+allure-report
 
